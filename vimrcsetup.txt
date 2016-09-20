@@ -1,0 +1,7 @@
+Visit the website for spf13 "http://vim.spf13.com/#install".
+
+Make sure you have lua as well for the bundles to work.
+
+It will automatically replace the existing vimrc file and link the changes to it.
+
+
