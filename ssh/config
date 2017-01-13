@@ -1,0 +1,21 @@
+Host gitlab.com
+HostName gitlab.com
+User git
+IdentityFile ~/.ssh/id_rsa
+
+Host bitbucket.org
+HostName bitbucket.org
+User git
+IdentityFile ~/.ssh/id_rsa
+
+#capstone account
+Host github.com-capstone
+HostName github.com
+User git
+IdentityFile ~/.ssh/PRondi
+
+#workid account
+Host github.com
+HostName github.com
+User git
+IdentityFile ~/.ssh/id_rsa
